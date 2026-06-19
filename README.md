@@ -1,2 +1,22 @@
 # fundtogether-Pakistan5
-my project is about undTogether Pakistan is a web-based crowdfunding platform designed to provide a secure, transparent, and accessible fundraising solution for individuals and organizations across Pakistan. The platform enables students, patients, startups, small businesses, non-governmental organizations (NGOs), and community groups to create fundraising campaigns and receive financial support from donors. The project aims to bridge the gap between people in need of funding and individuals willing to contribute to meaningful causes. 
+# FundTogether Pakistan
+
+## Introduction
+
+FundTogether Pakistan is a verified crowdfunding platform...
+
+## Features
+
+- User Registration
+- Campaign Creation
+- Donations
+- Admin Approval
+- Fund Usage Reports
+
+## Technologies Used
+
+- Next.js
+- Node.js
+- PostgreSQL
+- Tailwind CSS
+- 

@@ -107,6 +107,22 @@ Run Development Server
 npm run dev
 Open Browser
 http://localhost:3000
+# Screenshots
+ Login Page
+![Login Page](screenshots/login-page.PNG)
+Landing page
+![Landing Page](screenshots/landing-page.PNG)
+Registration Page
+![Registration Page](screenshots/register-page.PNG)
+Campaign Creation Form
+![Campaign Creation](screenshots/campaign-creation.PNG)
+Campaign Detail Page
+![Campaign Detail](screenshots/campaign-detail.PNG)
+Donation Checkout
+![Donation Checkout](screenshots/donation-checkout.PNG)
+Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.PNG)
+
 Future Enhancements
 
 The future versions of FundTogether Pakistan may include:
